@@ -14,3 +14,6 @@
 #
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)]
