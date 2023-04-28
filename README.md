@@ -16,4 +16,4 @@
 > ***Linus Torvalds***
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)]
