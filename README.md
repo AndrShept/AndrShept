@@ -16,4 +16,4 @@
 > ***Linus Torvalds***
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,scss,react,redux,&perline=7)
