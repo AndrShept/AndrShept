@@ -3,7 +3,7 @@
 ### Check my website: 
 ### Languages and Technologies 
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,scss,react,redux,&perline=7)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,scss,react,redux,py&perline=7)
 
 ### ✉️ Mail me: sheptyckiy.a@ukr.net
 #
