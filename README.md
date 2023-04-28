@@ -11,4 +11,3 @@
 > ***Linus Torvalds***
 
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,scss,react,redux,&perline=7)
