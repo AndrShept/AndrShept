@@ -7,7 +7,6 @@
 
 ### ✉️ Mail me: sheptyckiy.a@ukr.net
 #
-> Talk is cheap. Show me the code. <br/>
-> ***Linus Torvalds***
+
 
 
